@@ -1,0 +1,7 @@
+#backG{
+    -fx-background-color: linear-gradient( #93BAEB , #558FDB, #0357C5);
+}
+#ticTacToe {
+    -fx-font-family: 'Moo Lah Lah';
+    -fx-font-size: 70px;
+}
